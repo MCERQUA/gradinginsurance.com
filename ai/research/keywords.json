@@ -1,0 +1,327 @@
+{
+  "niche": "Grading & Earthmoving Contractor Insurance",
+  "domain": "gradinginsurance.com",
+  "researched": "2026-06-19",
+  "data_source": "DataForSEO (Google Ads + DataForSEO Labs)",
+  "notes": "Many hyper-specific grading/earthmoving terms return null volume — niche is small with thin search demand. Strategy: rank for adjacent broader contractor insurance terms while owning the niche anchor.",
+
+  "primary_keywords": [
+    {
+      "keyword": "general liability insurance for contractors",
+      "volume": 8100,
+      "cpc": 111.26,
+      "competition": "LOW",
+      "competition_index": 22,
+      "difficulty": 16,
+      "intent": "commercial",
+      "notes": "Highest-volume relevant term; broad but foundational"
+    },
+    {
+      "keyword": "contractors insurance",
+      "volume": 4400,
+      "cpc": 97.15,
+      "competition": "MEDIUM",
+      "competition_index": null,
+      "difficulty": 18,
+      "intent": "commercial",
+      "notes": "Head term; umbrella query for the niche"
+    },
+    {
+      "keyword": "surety bond for contractors",
+      "volume": 4400,
+      "cpc": 44.60,
+      "competition": "LOW",
+      "competition_index": 6,
+      "difficulty": 11,
+      "intent": "commercial",
+      "notes": "High volume, low difficulty — strong quick-win target"
+    },
+    {
+      "keyword": "general contractor insurance",
+      "volume": 1900,
+      "cpc": 94.34,
+      "competition": "MEDIUM",
+      "competition_index": null,
+      "difficulty": 12,
+      "intent": "commercial",
+      "notes": "Core term; strong commercial intent"
+    },
+    {
+      "keyword": "contractor liability insurance",
+      "volume": 1900,
+      "cpc": 81.51,
+      "competition": "MEDIUM",
+      "competition_index": 34,
+      "difficulty": 24,
+      "intent": "commercial",
+      "notes": "Solid mid-tier target"
+    },
+    {
+      "keyword": "independent contractor insurance",
+      "volume": 1300,
+      "cpc": 49.76,
+      "competition": "MEDIUM",
+      "competition_index": 46,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Relevant to sole-operator grading contractors"
+    },
+    {
+      "keyword": "contractor insurance cost",
+      "volume": 880,
+      "cpc": 55.16,
+      "competition": "MEDIUM",
+      "competition_index": 39,
+      "difficulty": 7,
+      "intent": "informational",
+      "notes": "Pricing research intent; good for blog/FAQ content"
+    },
+    {
+      "keyword": "grading contractor insurance",
+      "volume": null,
+      "cpc": null,
+      "competition": null,
+      "competition_index": null,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Primary brand/niche anchor term — low measurable volume but highest specificity; own this"
+    }
+  ],
+
+  "secondary_keywords": [
+    {
+      "keyword": "heavy equipment insurance",
+      "volume": 590,
+      "cpc": 22.05,
+      "competition": "MEDIUM",
+      "competition_index": 37,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Covers excavators, bulldozers, motor graders — core equipment for the niche"
+    },
+    {
+      "keyword": "construction equipment insurance",
+      "volume": 590,
+      "cpc": 22.05,
+      "competition": "MEDIUM",
+      "competition_index": 37,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Synonymous with heavy equipment insurance in search data"
+    },
+    {
+      "keyword": "commercial auto insurance for contractors",
+      "volume": 480,
+      "cpc": null,
+      "competition": "LOW",
+      "competition_index": 1,
+      "difficulty": 17,
+      "intent": "commercial",
+      "notes": "Service page target for /services/commercial-auto"
+    },
+    {
+      "keyword": "contractor insurance quotes",
+      "volume": 260,
+      "cpc": 80.20,
+      "competition": "LOW",
+      "competition_index": 10,
+      "difficulty": 45,
+      "intent": "transactional",
+      "notes": "High buyer intent; most competitive of niche terms"
+    },
+    {
+      "keyword": "utility contractor insurance",
+      "volume": 260,
+      "cpc": 17.21,
+      "competition": "LOW",
+      "competition_index": 4,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Adjacent — underground utility work overlaps with site prep"
+    },
+    {
+      "keyword": "excavation contractor insurance",
+      "volume": 90,
+      "cpc": 62.92,
+      "competition": "LOW",
+      "competition_index": 28,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Closest cousin to grading contractor insurance; key secondary target"
+    },
+    {
+      "keyword": "excavation insurance",
+      "volume": 170,
+      "cpc": 71.51,
+      "competition": "LOW",
+      "competition_index": 22,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Shorter form; good for internal linking"
+    },
+    {
+      "keyword": "equipment floater insurance",
+      "volume": 140,
+      "cpc": 16.23,
+      "competition": "LOW",
+      "competition_index": 24,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Inland marine/equipment floater — exact service offered"
+    },
+    {
+      "keyword": "workers comp for contractors",
+      "volume": 140,
+      "cpc": 100.09,
+      "competition": "MEDIUM",
+      "competition_index": 38,
+      "difficulty": 10,
+      "intent": "commercial",
+      "notes": "Service page target for /services/workers-compensation"
+    },
+    {
+      "keyword": "demolition contractor insurance",
+      "volume": 50,
+      "cpc": 66.62,
+      "competition": "MEDIUM",
+      "competition_index": 44,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Adjacent trade; site prep work sometimes includes demo"
+    },
+    {
+      "keyword": "land clearing insurance",
+      "volume": 30,
+      "cpc": 26.16,
+      "competition": "HIGH",
+      "competition_index": 88,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Direct service overlap; land clearing precedes grading"
+    },
+    {
+      "keyword": "umbrella insurance for contractors",
+      "volume": 30,
+      "cpc": 21.97,
+      "competition": "MEDIUM",
+      "competition_index": 46,
+      "difficulty": null,
+      "intent": "commercial",
+      "notes": "Service page target for /services/umbrella"
+    }
+  ],
+
+  "long_tail": [
+    {
+      "keyword": "earthmoving contractor insurance",
+      "volume": null,
+      "cpc": null,
+      "competition": null,
+      "competition_index": null,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Low measurable volume but zero competition — easy to rank; use as page H1 variant"
+    },
+    {
+      "keyword": "site prep contractor insurance",
+      "volume": null,
+      "cpc": null,
+      "competition": null,
+      "competition_index": null,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Zero competition; highly specific to the niche audience"
+    },
+    {
+      "keyword": "land grading insurance",
+      "volume": 10,
+      "cpc": null,
+      "competition": null,
+      "competition_index": null,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Very niche; target as a long-tail anchor on homepage"
+    },
+    {
+      "keyword": "dirt work contractor insurance",
+      "volume": null,
+      "cpc": null,
+      "competition": null,
+      "competition_index": null,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Colloquial trade term used by operators; low competition"
+    },
+    {
+      "keyword": "grading company insurance",
+      "volume": null,
+      "cpc": null,
+      "competition": null,
+      "competition_index": null,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Business-owner oriented variation of the primary term"
+    },
+    {
+      "keyword": "heavy equipment operator insurance",
+      "volume": 10,
+      "cpc": null,
+      "competition": "HIGH",
+      "competition_index": 79,
+      "difficulty": null,
+      "intent": "commercial",
+      "notes": "Operator-level search; relevant for sole proprietors"
+    },
+    {
+      "keyword": "general liability for grading contractors",
+      "volume": null,
+      "cpc": null,
+      "competition": null,
+      "competition_index": null,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Synthesized long-tail; likely zero competition; use in blog content"
+    },
+    {
+      "keyword": "insurance for site preparation contractors",
+      "volume": null,
+      "cpc": null,
+      "competition": null,
+      "competition_index": null,
+      "difficulty": 0,
+      "intent": "commercial",
+      "notes": "Zero competition; good for FAQ and blog content"
+    },
+    {
+      "keyword": "how much does grading contractor insurance cost",
+      "volume": null,
+      "cpc": null,
+      "competition": null,
+      "competition_index": null,
+      "difficulty": 0,
+      "intent": "informational",
+      "notes": "Pricing FAQ; zero competition; great for featured snippet"
+    },
+    {
+      "keyword": "contractor insurance cost",
+      "volume": 880,
+      "cpc": 55.16,
+      "competition": "MEDIUM",
+      "competition_index": 39,
+      "difficulty": 7,
+      "intent": "informational",
+      "notes": "Broader pricing intent; solid blog target"
+    }
+  ],
+
+  "paa_questions": [
+    "What insurance does a grading contractor need?",
+    "How much does excavation contractor insurance cost?",
+    "Do grading contractors need general liability insurance?",
+    "What is an equipment floater and do I need one for my excavator?",
+    "Is workers compensation required for grading contractor employees?",
+    "What does inland marine insurance cover for earthmoving equipment?",
+    "Do I need commercial auto insurance for dump trucks and equipment haulers?",
+    "What is builder's risk insurance and when does a site prep contractor need it?"
+  ]
+}

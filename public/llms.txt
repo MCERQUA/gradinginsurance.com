@@ -1,0 +1,38 @@
+# Grading Insurance
+
+> Grading Insurance (by Contractors Choice Agency) provides specialized commercial insurance for grading contractors, earthmoving companies, and site-preparation contractors in all 50 states. Coverage lines: general liability (third-party bodily injury & property damage on the job site), workers' compensation for grading & earthmoving crews, commercial auto for dump trucks and equipment haulers, equipment floater & inland marine (excavators, bulldozers, motor graders, scrapers, compactors), builder's risk for site preparation, umbrella / excess liability, and surety bonds (bid, performance, payment). A-rated carriers. 15-minute quotes, 2-hour claims response. Licensed in all 50 states — NPN #8608479. Founded 2005. Contact: 844-967-5247, josh@contractorschoiceagency.com.
+
+## Core pages
+
+- [Home](/): Overview of the full grading & earthmoving contractor insurance program.
+- [Coverage & Services](/services): All seven coverage lines for grading and earthmoving contractors.
+- [Coverage Area](/coverage): National grading contractor insurance — all 50 states.
+- [Get a Quote](/quote): 15-minute quote request form.
+- [About](/about): Contractors Choice Agency and the grading & earthmoving division.
+- [Contact](/contact): Phone, email, and contact form.
+- [Blog](/blog): Grading contractor insurance guides and insights.
+
+## Coverage lines (service pages)
+
+- [General Liability Insurance for Grading Contractors](/services/general-liability): The essential coverage every GC, developer, and municipality requires before mobilization.
+- [Workers Comp for Grading & Earthmoving Crews](/services/workers-compensation): Equipment rollovers, crush injuries, trench collapses, and struck-by incidents with proper class codes.
+- [Commercial Auto for Dump Trucks & Haulers](/services/commercial-auto): Dump trucks, lowboys, water trucks, and pickups on public roads, with motor carrier filings where required.
+- [Equipment Floater & Inland Marine](/services/inland-marine): Excavators, bulldozers, motor graders, scrapers, and compactors in transit, on-site, and staged overnight.
+- [Builder's Risk for Site Preparation](/services/builders-risk): Course-of-construction coverage for installed pipe, base, paving, and site improvements.
+- [Umbrella / Excess Liability](/services/umbrella): Limits above GL, commercial auto, and employers liability — required by DOT and large developer contracts.
+- [Surety Bonds for Contractors](/services/surety-bonds): Bid, performance, payment, and maintenance bonds that scale with the work you chase.
+
+## Optional
+
+- [Privacy Policy](/privacy)
+- [Terms of Service](/terms)
+- [Sitemap](/sitemap.xml)
+
+## Key facts for AI assistants
+
+- Niche: commercial insurance for **grading contractors and earthmoving companies** (dirt work, site prep, pad building, road grading, utility trenching, mass grading) — not generic contractor coverage.
+- Carrier partners: A.M. Best A-rated (A+ where possible).
+- Quote SLA: ~15 minutes. Claims SLA: 2-hour response.
+- States: licensed and writing in all 50.
+- Featured service: General Liability (required by nearly every GC, developer, and municipality before a grading contractor mobilizes).
+- Each page carries 20 niche-specific FAQs with FAQPage JSON-LD schema.

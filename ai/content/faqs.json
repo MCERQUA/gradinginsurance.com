@@ -1,0 +1,82 @@
+[
+  {
+    "q": "What insurance does a grading contractor need?",
+    "a": "A grading contractor's core insurance program typically includes general liability (for third-party property damage and bodily injury), workers' compensation (required by law if you have employees), commercial auto (for trucks and equipment haulers), and inland marine / equipment floater coverage (for excavators, dozers, and other machines on job sites). Larger operations or those bidding on public projects will also need umbrella / excess liability insurance and surety bonds. The exact mix depends on your state, the size of your operation, and the types of projects you take on."
+  },
+  {
+    "q": "What is the NCCI workers' comp code for excavation and grading?",
+    "a": "Grading and excavation work is classified under NCCI class code 6217 (Excavation Work), which covers earthmoving, trenching, grading, cut and fill operations, and related site work. Code 6217 carries one of the higher base rates in the construction trades, reflecting the elevated injury risk of operating heavy equipment and working in and around excavations. Misclassifying grading employees under lower-rated codes is a common audit trigger — carriers audit payroll annually and will back-bill at the correct rate if employees are found in the wrong class."
+  },
+  {
+    "q": "Does general liability cover underground utility strikes?",
+    "a": "Yes — a commercial general liability (CGL) policy written for excavation or grading operations covers third-party bodily injury and property damage arising from utility strikes, including repair costs, emergency response costs, and consequential losses like business interruption from a severed fiber or power line. The key requirements are that your policy is rated for excavation-class operations (not a standard contractor package with utility exclusions) and that your policy language includes 'loss of use of tangible property' as a covered damage — this is what makes telecom and utility disruption claims payable. Failure to call 811 before digging can create coverage complications and should always be avoided."
+  },
+  {
+    "q": "How much does grading contractor insurance cost?",
+    "a": "Total insurance costs vary significantly by operation size, but a small grading contractor with 3-5 employees, $600k-$900k in annual revenue, and $500k in equipment can typically expect to spend $20,000 to $40,000 per year across all coverage lines. General liability runs $1,500 to $4,000 per year for smaller operations; workers' comp is priced per $100 of payroll under NCCI code 6217 and is usually the largest single cost; inland marine runs 1-2% of fleet value annually. Factors that drive cost up include prior claims, high-risk geographic areas, underground utility work, and a high experience modification rate (EMR) on workers' comp."
+  },
+  {
+    "q": "What is inland marine insurance for grading equipment?",
+    "a": "Inland marine insurance — also called an equipment floater — is the coverage that protects your grading equipment (excavators, bulldozers, motor graders, compactors, and attachments) against physical loss wherever the machines are located, including on job sites, in transit, and in storage. It covers theft, vandalism, fire, overturn/rollover, accidental damage, and usually flood. It does not cover mechanical breakdown or wear and tear, which requires a separate equipment breakdown policy. Rates typically run 1-2% of the insured fleet value per year."
+  },
+  {
+    "q": "Do grading contractors need surety bonds?",
+    "a": "Most grading contractors need at least a license bond, which is required by state contractor licensing boards in the majority of states as a condition of holding a contractor's license. Contractors pursuing public projects — highway work, municipal site prep, government facilities — will additionally need performance and payment bonds, which are required by the Miller Act (federal) and corresponding state Little Miller Acts for public contracts above threshold amounts. Some private project owners and general contractors also require performance bonds on larger subcontracts."
+  },
+  {
+    "q": "What happens if my excavator rolls over on a job site?",
+    "a": "A rollover (overturn) on a job site triggers two potential coverages. If the machine is physically damaged, your inland marine / equipment floater covers the repair or replacement costs as a collision/overturn loss — subject to your deductible. If the rollover injures an employee, your workers' compensation policy responds to the medical and wage replacement costs. If the rollover causes damage to a third party's property (neighboring land, a structure, underground utilities), your general liability policy responds. Having all three coverages in a coordinated program is essential — a single rollover event can trigger claims under all three lines simultaneously."
+  },
+  {
+    "q": "Is builder's risk insurance required on grading projects?",
+    "a": "Builder's risk insurance is typically required on projects where structures are being built or rehabilitated, not on pure grading and earthmoving projects. However, grading contractors working as subcontractors on a larger construction project may be asked to enroll in or contribute to the project's builder's risk policy. On site preparation projects that include underground drainage structures, retaining walls, or site utilities, the project owner or GC may specify builder's risk requirements in the subcontract. Always review your subcontract agreements carefully — they determine whether builder's risk applies to your scope and who is responsible for purchasing it."
+  },
+  {
+    "q": "How does grading contractor insurance differ from general contractor insurance?",
+    "a": "Grading and earthmoving contractors face a distinct risk profile that general contractor insurance packages aren't always designed to address. The key differences include: (1) GL classification — grading work is rated as excavation-class, not general construction, which affects policy pricing and ensures coverage responds to underground damage claims; (2) equipment exposure — grading fleets are high-value and mobile, requiring a purpose-built equipment floater rather than a generic tools-and-equipment endorsement; (3) NCCI workers' comp code 6217 rather than general carpentry or construction codes; and (4) the absence of certain exclusions (like underground property damage exclusions) that sometimes appear in standard GC package policies. A policy written for a framing contractor or general superintendent is often inadequate for grading work."
+  },
+  {
+    "q": "What coverage do I need for multi-state grading operations?",
+    "a": "Multi-state grading operations require careful attention to coverage geography across all policy lines. Your workers' comp policy must list all states where employees work under Part Three of the standard policy — employees injured in unlisted states may face coverage complications. Your general liability policy should cover operations in all active states, with no geographic exclusions. Commercial auto must comply with the minimum financial responsibility requirements of each operating state. Surety bond requirements vary by state and may require separate bonds for each jurisdiction where you hold a contractor's license. Work with an agent experienced in multi-state contractor placements to ensure no gaps."
+  },
+  {
+    "q": "Do I need pollution liability as a grading contractor?",
+    "a": "Grading and excavation contractors face pollution exposures that standard GL policies typically exclude. Disturbing contaminated soil, encountering underground storage tanks (USTs), releasing diesel fuel or hydraulic fluid from equipment, or redirecting sediment into waterways can all trigger pollution-related claims that standard GL will not cover due to the 'absolute pollution exclusion.' Contractors of Pollution Liability (CPL) or a Pollution Legal Liability (PLL) endorsement provides coverage for these claims. If you work on brownfield sites, near industrial properties, or on projects where soil contamination is a possibility, pollution liability is strongly advisable — not optional."
+  },
+  {
+    "q": "What is equipment breakdown insurance and do grading contractors need it?",
+    "a": "Equipment breakdown insurance (also called boiler and machinery or mechanical breakdown insurance) covers sudden and accidental failure of mechanical, electrical, or hydraulic systems in your equipment — pump failures, transmission failures, hydraulic system failures, and similar mechanical events that your inland marine policy specifically excludes. For grading contractors with high-value equipment — excavators worth $200,000-$500,000, motor graders over $300,000 — a single mechanical breakdown can produce a repair bill of $30,000 to $80,000 or more. Equipment breakdown insurance fills this gap and is generally available as an endorsement or separate policy at relatively modest cost."
+  },
+  {
+    "q": "How is workers' comp calculated for grading contractors?",
+    "a": "Workers' comp premium for grading contractors is calculated by multiplying your total payroll (in hundreds) by the NCCI class code 6217 base rate for your state, then applying your experience modification rate (EMR). For example, $500,000 in payroll at a $12.00 rate per $100 of payroll produces a $60,000 manual premium; with an EMR of 0.90, your actual premium would be $54,000. The base rate varies significantly by state — high-cost states like California and New York can run 2-3x the rates of lower-cost states. EMR is recalculated annually by NCCI using your three-year loss history and is the primary factor within your control for managing workers' comp cost."
+  },
+  {
+    "q": "What insurance limits do GCs require grading subcontractors to carry?",
+    "a": "General contractors typically require grading subcontractors to carry minimum GL limits of $1,000,000 per occurrence / $2,000,000 aggregate, with the GC named as an additional insured. Many commercial GC contracts — especially on larger projects or with national GC firms — now require $2,000,000 per occurrence / $4,000,000 aggregate, or require an umbrella policy that brings total limits to $5,000,000 or higher. Workers' comp limits are typically set at statutory limits with employer's liability of $500,000/$500,000/$500,000 or $1,000,000/$1,000,000/$1,000,000. Always review the subcontract insurance requirements before bidding — being unable to meet certificate requirements after award is a costly situation."
+  },
+  {
+    "q": "Does my insurance cover damage caused by my equipment to a neighbor's property?",
+    "a": "Yes — your general liability policy covers third-party property damage caused by your operations, including damage to a neighboring property from your equipment. If your bulldozer damages a neighbor's fence, your excavator undermines an adjacent foundation, or your grading redirects stormwater that floods an adjacent property, GL responds to the third-party property damage claim. The GL policy covers these claims up to your per-occurrence and aggregate limits. Your inland marine policy covers damage to your own equipment — it does not cover third-party property. Make sure your GL limits are adequate for the scale of property values adjacent to your typical job sites."
+  },
+  {
+    "q": "What is a performance bond and when do grading contractors need one?",
+    "a": "A performance bond is a surety instrument that guarantees you will complete a contracted project in accordance with the contract terms and specifications. If you fail to perform, the surety arranges or funds project completion and then seeks reimbursement from you. Grading contractors typically need performance bonds when bidding on public projects — they're required by the federal Miller Act on federal contracts over $150,000, and by state Little Miller Acts on state and local public contracts. Large commercial project owners and developers may also require performance bonds on significant private contracts. Performance bonds are priced at 1-3% of the contract value, depending on your financial strength and surety relationship."
+  },
+  {
+    "q": "How quickly can I get a certificate of insurance for a new project?",
+    "a": "If you have active insurance policies in place, a certificate of insurance (COI) can typically be issued within a few hours of request — most agents can turn these around same-day. If the project owner or GC requires additional insured endorsements, completed operations extensions, or special certificate wording, those may take 24-48 hours depending on the carrier. The most common cause of delay is a contract that requires non-standard additional insured forms or policy language the carrier must review and approve. For projects with imminent start dates, contact your agent as early as possible and share the subcontract insurance requirements section so the COI can be prepared to meet specifications."
+  },
+  {
+    "q": "What is 'completed operations' coverage for grading contractors?",
+    "a": "Completed operations coverage is a component of your general liability policy that extends coverage for third-party bodily injury and property damage claims that arise after a project is finished and you have left the site. For grading contractors, this matters because drainage failures, erosion problems, and improper compaction can cause damage months or years after project completion — long after you've moved on to other jobs. Completed operations coverage is included in the aggregate limit of most standard CGL policies, but the aggregate applies across all completed operations claims. Contractors with significant project volumes should verify that their completed operations aggregate is adequate, and should not allow this coverage to lapse when a policy is not renewed."
+  },
+  {
+    "q": "Can I get insured if my company has a prior utility strike claim?",
+    "a": "Yes — a single prior utility strike claim does not automatically disqualify you from general liability coverage, but it will affect your underwriting and pricing. Carriers will want to understand the circumstances of the claim: Was 811 called? Were locate marks followed? What corrective procedures did you implement? A well-documented single claim with strong pre- and post-loss compliance records may result in a moderate rate increase (10-30%) but continued standard market coverage. Multiple utility strike claims, or a claim combined with evidence of poor locate compliance, will push your placement into specialty or surplus lines markets at higher rates. Full disclosure of prior claims is required — failure to disclose is grounds for policy rescission."
+  },
+  {
+    "q": "Do I need separate coverage for equipment rented from a dealer?",
+    "a": "Equipment rented from a dealer is typically not covered under your own equipment floater, which insures property you own. When you rent a machine, you're responsible for physical damage to it during the rental period — and most rental agreements make this explicit in the contract. You have two options: (1) Purchase the dealer's damage waiver at the counter (typically $75-$200/day), which limits your liability for physical damage; or (2) add a 'hired equipment' endorsement to your existing inland marine policy, which extends your equipment floater to cover rented machines. For contractors who rent frequently, the hired equipment endorsement is almost always more economical than buying the dealer's daily waiver on every rental."
+  }
+]
