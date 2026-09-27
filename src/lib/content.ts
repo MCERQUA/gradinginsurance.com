@@ -131,7 +131,7 @@ export const COPY = {
     lead: "Tell us about your crew and operation. We'll shop A-rated specialty contractor markets and come back with real quotes in about 15 minutes — no obligation.",
     businessPlaceholder: "Red Rock Grading LLC",
     emailPlaceholder: "carlos@redrockgrading.com",
-    phonePlaceholder: "(480) 555-0100",
+    phonePlaceholder: "Best number to reach you",
     messagePlaceholder:
       "Crew size, equipment list and fleet value, scope of work (residential site prep, commercial pad, road grading, utility trenching), coverage lines needed, current insurer, loss history, or anything else that helps us quote accurately…",
     errorMessage: "Something went wrong. Please call us at 844-967-5247 or try again.",
