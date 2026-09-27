@@ -14,8 +14,8 @@
     --bg-cream: #FAF7F2;
     --bg-sand: #EEE6D9;
     --bg-white: #FFFFFF;
-    --clay: #3A4A5C;
-    --clay-dark: #283543;
+    --clay: #564536;
+    --clay-dark: #3F3125;
     --sage: #6E7B66;
     --gold: #C8842B;
     --espresso: #241F1A;
@@ -49,7 +49,7 @@
   }
 
   ::selection {
-    background: rgba(58, 74, 92, 0.16);
+    background: rgba(86, 69, 54, 0.16);
     color: var(--espresso);
   }
 }
@@ -99,7 +99,7 @@
     position: absolute;
     top: 0; left: 0; right: 0;
     height: 6px;
-    background: linear-gradient(90deg, #3A4A5C 0%, #56697E 24%, #6E7B66 58%, #C8842B 100%);
+    background: linear-gradient(90deg, #564536 0%, #786352 24%, #6E7B66 58%, #C8842B 100%);
   }
   .pill { @apply inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-heading font-semibold uppercase tracking-wider; }
   .pill-clay { @apply pill bg-clay/10 text-clay border border-clay/20; }
@@ -114,41 +114,41 @@
   .bg-sonoran {
     background-color: var(--bg-cream);
     background-image:
-      radial-gradient(circle at 15% 15%, rgba(58, 74, 92, 0.10) 0%, transparent 35%),
+      radial-gradient(circle at 15% 15%, rgba(86, 69, 54, 0.10) 0%, transparent 35%),
       radial-gradient(circle at 85% 75%, rgba(110, 123, 102, 0.08) 0%, transparent 40%);
   }
   .bg-sonoran-sand {
     background-color: var(--bg-sand);
     background-image:
-      radial-gradient(circle at 70% 20%, rgba(58, 74, 92, 0.07) 0%, transparent 45%),
+      radial-gradient(circle at 70% 20%, rgba(86, 69, 54, 0.07) 0%, transparent 45%),
       radial-gradient(circle at 20% 80%, rgba(200, 132, 43, 0.09) 0%, transparent 40%);
   }
   .bg-warm-radial {
     background:
-      radial-gradient(ellipse at top, rgba(58, 74, 92, 0.12) 0%, transparent 55%),
+      radial-gradient(ellipse at top, rgba(86, 69, 54, 0.12) 0%, transparent 55%),
       radial-gradient(ellipse at bottom right, rgba(110, 123, 102, 0.08) 0%, transparent 50%),
       var(--bg-cream);
   }
   /* Field band — layered steel + amber = job-site horizon */
   .horizon-band {
     background: linear-gradient(180deg,
-      #3A4A5C 0% 18%, #56697E 18% 34%, #C8842B 34% 48%,
-      #6E7B66 48% 62%, #3A4A5C 62% 78%, #56697E 78% 100%);
+      #564536 0% 18%, #786352 18% 34%, #C8842B 34% 48%,
+      #6E7B66 48% 62%, #564536 62% 78%, #786352 78% 100%);
   }
   .grain {
     background-image:
-      repeating-linear-gradient(92deg, rgba(58,74,92,0.0) 0px, rgba(58,74,92,0.0) 10px, rgba(255,255,255,0.025) 10px, rgba(255,255,255,0.025) 11px),
+      repeating-linear-gradient(92deg, rgba(86,69,54,0.0) 0px, rgba(86,69,54,0.0) 10px, rgba(255,255,255,0.025) 10px, rgba(255,255,255,0.025) 11px),
       repeating-linear-gradient(88deg, rgba(0,0,0,0.0) 0px, rgba(0,0,0,0.0) 23px, rgba(0,0,0,0.03) 23px, rgba(0,0,0,0.03) 24px);
   }
   .dotted-warm {
-    background-image: radial-gradient(circle, rgba(58, 74, 92, 0.14) 1px, transparent 1px);
+    background-image: radial-gradient(circle, rgba(86, 69, 54, 0.14) 1px, transparent 1px);
     background-size: 24px 24px;
   }
   .arch-divider { position: relative; height: 3rem; width: 100%; }
   .arch-divider::after {
     content: ""; position: absolute; inset: 0; margin: auto;
     width: 10rem; height: 1.4rem;
-    background: linear-gradient(90deg, #3A4A5C 0% 18%, #56697E 18% 40%, #C8842B 40% 62%, #6E7B66 62% 82%, #3A4A5C 82% 100%);
+    background: linear-gradient(90deg, #564536 0% 18%, #786352 18% 40%, #C8842B 40% 62%, #6E7B66 62% 82%, #564536 82% 100%);
     border-radius: 0.5rem; opacity: 0.92;
   }
 
@@ -161,7 +161,7 @@
   .prose-warm li::before {
     content: ""; position: absolute; left: 0; top: 0.55em;
     width: 1.1rem; height: 0.5rem;
-    background: linear-gradient(90deg, #3A4A5C 0% 35%, #C8842B 35% 70%, #6E7B66 70% 100%);
+    background: linear-gradient(90deg, #564536 0% 35%, #C8842B 35% 70%, #6E7B66 70% 100%);
     border-radius: 0.15rem 0.5rem 0.15rem 0.5rem; opacity: 0.9;
   }
   .prose-warm strong { @apply text-espresso font-semibold; }
