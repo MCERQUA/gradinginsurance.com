@@ -144,14 +144,10 @@ export const CREDENTIALS = [
 ] as const;
 
 export const STATS = [
-  { value: 18, suffix: "+", label: "Years insuring earthmoving crews", prefix: "" },
-  { value: 2.4, suffix: "B", label: "Contractor coverage placed", prefix: "$" },
-  { value: 48, suffix: "", label: "States licensed", prefix: "" },
-  { value: 4.9, suffix: "★", label: "Average contractor rating", prefix: "" },
+  { value: 20, suffix: "+", label: "Years insuring specialty contractors", prefix: "" },
+  { value: 15, suffix: " min", label: "Average quote turnaround", prefix: "" },
+  { value: 2, suffix: " hr", label: "Claims response", prefix: "" },
+  { value: 50, suffix: "", label: "States licensed & writing", prefix: "" },
 ] as const;
 
-export const TESTIMONIALS = [
-  { quote: "Our old carrier had our scrapers and excavators scheduled wrong and we got hammered at audit. These folks rebuilt the inland marine and equipment floater correctly — every machine, on-site and in transit — and it actually cost less. First agent who understood that a fleet that moves job to job is not property coverage.", name: "Ray T.", role: "Owner", location: "Grading Contractor, Arizona" },
-  { quote: "We needed a performance and payment bond package to chase a TxDOT project and our surety had us capped. They built out a bonding line based on our real work-in-progress and bank lines, not a one-off bond. We landed the job and the program scales with us now.", name: "Marcus B.", role: "President", location: "Site-Prep Company, Texas" },
-  { quote: "A haul truck was involved in an at-fault accident that blew right through our auto limits. The umbrella and excess placement they had insisted on is what saved the company. They get that dirt work and hauling carry serious third-party exposure — not just a generic contractor quote.", name: "Dana R.", role: "VP Operations", location: "Earthmoving, Colorado" },
-] as const;
+export const TESTIMONIALS: { quote: string; name: string; role: string; location: string }[] = [];

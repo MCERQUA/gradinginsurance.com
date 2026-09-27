@@ -51,11 +51,6 @@ export const COPY = {
   process: {
     lead: "No two-week back-and-forth. A real conversation, real markets, and a program you can actually understand — built around your fleet, your crew, and your bonding needs.",
   },
-  testimonials: {
-    eyebrow: "From grading contractors",
-    h2Lead: "Earthmoving companies that found",
-    h2Highlight: "coverage that actually pays",
-  },
   finalCta: {
     h2Lead: "Protect Your Grading Operation",
     h2Highlight: "with coverage built for the dirt.",
